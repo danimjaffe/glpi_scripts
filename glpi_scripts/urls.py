@@ -1,7 +1,6 @@
 import urllib.parse
 
 
-# TODO: fix adjust this file with commnets and only vales needed
 class Urls:
     def __init__(self, ip):
         p = urllib.parse.urlparse(ip, "http")
