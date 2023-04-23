@@ -1,7 +1,7 @@
 import argparse
-from urls import Urls
-from sessionHandler import SessionHandler
-from utils import get_reservations_from_user
+from glpi_scripts.urls import Urls
+from glpi_scripts.sessionHandler import SessionHandler
+from glpi_scripts.utils import get_reservations_from_user
 
 
 def main():

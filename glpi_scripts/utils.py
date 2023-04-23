@@ -1,6 +1,6 @@
 import pandas as pd
 from datetime import datetime
-from urls import Urls
+from glpi_scripts.urls import Urls
 from requests.sessions import Session
 
 
